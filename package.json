@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@cardiff.marketing/pages-plugin-mailchannels": "github:yhorian/pages-plugin-mailchannels"
+  },
+  "name": "novyweb",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeXus-eu/NovyWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeXus-eu/NovyWeb/issues"
+  },
+  "homepage": "https://github.com/HeXus-eu/NovyWeb#readme",
+  "description": ""
+}
